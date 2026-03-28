@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
-    "jest-expo": "^33.0.1"
+    "jest-expo": "^54.0.17"
   },
   "private": true
 }
